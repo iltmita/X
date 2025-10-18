@@ -1,1 +1,0 @@
-print("Hello, World!")\n-- Made by Quorum Hub
